@@ -1,0 +1,2 @@
+- [ ] Create Strategy base class (Should take all relevant data and implement methods for usage)
+- [ ] Implement strategy methods based off data
